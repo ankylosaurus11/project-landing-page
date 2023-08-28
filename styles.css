@@ -70,3 +70,16 @@ button {
     width: 400px;
     flex: 1;
 }
+
+.two {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 100px 60px 100px;
+}
+
+.two-title {
+    font-size: 36px;
+    font-weight: 800;
+}
+
