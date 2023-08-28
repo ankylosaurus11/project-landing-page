@@ -34,14 +34,17 @@ a {
 
 .one {
     display: flex;
-    flex-direction: column;
+    padding: 20px 100px 20px 100px;
 }
 
 .top-left {
+    display: flex;
+    flex-direction: column;
     width: 400px;
-    padding: 16px;
+    height: 200px;
+    justify-content: center;
 }
 
 .img {
-
+    width: 400px;
 }
