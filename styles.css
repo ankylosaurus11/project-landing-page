@@ -53,6 +53,19 @@ a, .subtext {
     font-weight: 800;
 }
 
+.button {
+    margin: 8px;
+}
+
+button {
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    width: 100px;
+    background-color: #3882f6;
+    color: #f9faf8;
+}
+
 .img {
     width: 400px;
     flex: 1;
