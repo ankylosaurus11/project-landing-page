@@ -26,7 +26,7 @@ ul {
 
 }
 
-a {
+a, .subtext {
     text-decoration: none;
     color: #E5E7EB;
     font-size: 18px;
@@ -35,6 +35,7 @@ a {
 .one {
     display: flex;
     padding: 20px 100px 20px 100px;
+    background-color: #1F2937;
 }
 
 .top-left {
@@ -43,6 +44,12 @@ a {
     width: 400px;
     height: 200px;
     justify-content: center;
+}
+
+.title {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 800;
 }
 
 .img {
