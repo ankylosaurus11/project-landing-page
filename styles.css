@@ -66,8 +66,7 @@ button {
 }
 
 .img {
-    display: flex;
-    flex: 1;
+  
 }
 
 .two {
@@ -111,9 +110,8 @@ button {
 
 .four {
     display: flex;
-    flex: 1;
+
     flex-direction: column;
-    align-items: center;
     margin: 80px 160px;
     background-color: #3882f6;
     border-radius: 8px;
@@ -122,15 +120,18 @@ button {
 
 .title-four {
     display: flex;
-    flex: 1;
     flex-direction: column;
-    padding: 45px 60px;
     font-weight: 800;
+
 }
 
 .button2 {
     display: flex;
-    flex: 1;
+    border: 2px solid #f9faf8;
+    width: 100px;
+    height: 30px;
+
+    border-radius: 8px;
 }
 
 .footer {
