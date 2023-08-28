@@ -107,6 +107,7 @@ button {
 .four {
     display: flex;
     justify-content: space-around;
+    align-items: center;
     flex-direction: row;
     margin: 80px 160px;
     background-color: #3882f6;
@@ -117,8 +118,7 @@ button {
 .title-four {
     display: flex;
     flex-direction: column;
-    font-weight: 800;
-
+    padding: 50px 0;
 }
 
 .button2 {
@@ -126,7 +126,6 @@ button {
     border: 2px solid #f9faf8;
     width: 100px;
     height: 30px;
-
     border-radius: 8px;
 }
 
