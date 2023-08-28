@@ -54,7 +54,7 @@ a, .subtext {
 }
 
 .button {
-    margin: 8px;
+    padding: 8px 0;
 }
 
 button {
@@ -83,3 +83,7 @@ button {
     font-weight: 800;
 }
 
+.boxes {
+    display: flex;
+    flex-direction: row;
+}
