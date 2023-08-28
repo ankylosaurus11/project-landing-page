@@ -34,7 +34,6 @@ a, .subtext {
 
 .one {
     display: flex;
-    flex: 1;
     padding: 60px 100px 60px 100px;
     background-color: #1F2937;
 }
@@ -43,6 +42,9 @@ a, .subtext {
     display: flex;
     flex: 1;
     flex-direction: column;
+    width: 400px;
+    height: 200px;
+    justify-content: center;
 }
 
 .title {
@@ -65,7 +67,7 @@ button {
 }
 
 .img {
-    display: flex;
+    width: 400px;
     flex: 1;
 }
 
