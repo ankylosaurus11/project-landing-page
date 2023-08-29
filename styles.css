@@ -87,10 +87,12 @@ button {
 
 .boxes {
     display: flex;
-    flex: 1;
+
+
     gap: 15px;
     padding: 0 100px 30px 100px;
 }
+
 
 .three {
     display: flex;
