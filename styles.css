@@ -34,14 +34,14 @@ a, .subtext {
 
 .one {
     display: flex;
-    flex: 1;
+
     padding: 60px 100px 60px 100px;
     background-color: #1F2937;
 }
 
 .top-left {
     display: flex;
-    flex: 1;
+    width: 40rem;
     flex-direction: column;
 }
 
@@ -102,6 +102,7 @@ button {
 
 .signature {
     font-weight: 800;
+    margin-left: 20rem;
 }
 
 .four {
